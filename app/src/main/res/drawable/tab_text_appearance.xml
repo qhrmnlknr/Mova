@@ -1,0 +1,4 @@
+<style name="CustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+    <item name="android:textSize">18sp</item> <!-- Set your desired text size -->
+    <item name="android:textColor">?attr/colorOnPrimary</item> <!-- Optional: Set text color -->
+</style>

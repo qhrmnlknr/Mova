@@ -1,0 +1,13 @@
+<!-- res/drawable/tab_indicator.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Bottom line for the indicator -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/red" />
+            <size android:height="2.5dp" />
+            <corners android:radius="14dp"/>
+        </shape>
+    </item>
+
+</layer-list>

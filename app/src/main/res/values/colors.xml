@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dm_black">#181A20</color>
+    <color name="red">#F70004</color>
+    <color name="dm_button_dark">#1F222A</color>
+    <color name="dm_gray">#35383F</color>
+    <color name="dm_light_gray">#9E9E9E</color>
+    <color name="light_red">#e21221</color>
+    <color name="pink">#F75555</color>
+
+
+
+
+
+
+
+</resources>
